@@ -1,7 +1,10 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
+  --rick-blue: 183, 228, 249;      
+  --portal-green: 151, 206, 76;  
+  --morty-yellow: 249, 225, 75;   
+  --background: 249, 225, 75;
   --foreground: #171717;
 }
 
@@ -24,3 +27,5 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
